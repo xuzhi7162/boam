@@ -6,4 +6,3 @@ temp/
 !temp
 vendor
 config/settings.dev.yml
-go-admin
